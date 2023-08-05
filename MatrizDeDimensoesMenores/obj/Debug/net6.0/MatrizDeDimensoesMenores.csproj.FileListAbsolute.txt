@@ -1,0 +1,15 @@
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\bin\Debug\net6.0\MatrizDeDimensoesMenores.exe
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\bin\Debug\net6.0\MatrizDeDimensoesMenores.deps.json
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\bin\Debug\net6.0\MatrizDeDimensoesMenores.runtimeconfig.json
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\bin\Debug\net6.0\MatrizDeDimensoesMenores.dll
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\bin\Debug\net6.0\MatrizDeDimensoesMenores.pdb
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.csproj.AssemblyReference.cache
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.AssemblyInfoInputs.cache
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.AssemblyInfo.cs
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.csproj.CoreCompileInputs.cache
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.dll
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\refint\MatrizDeDimensoesMenores.dll
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.pdb
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\MatrizDeDimensoesMenores.genruntimeconfig.cache
+C:\Users\renzo\source\repos\TrabalhandoComMatriz\MatrizDeDimensoesMenores\obj\Debug\net6.0\ref\MatrizDeDimensoesMenores.dll

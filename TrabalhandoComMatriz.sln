@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatrizQuadradaInvertida", "TrabalhandoComMatriz\MatrizQuadradaInvertida.csproj", "{C220EB94-3A3E-4FAF-AEBA-AB19B147E06F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrizDeDimensoesMenores", "MatrizDeDimensoesMenores\MatrizDeDimensoesMenores.csproj", "{249CEE9E-2687-4622-9579-7C421F8F367F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C220EB94-3A3E-4FAF-AEBA-AB19B147E06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C220EB94-3A3E-4FAF-AEBA-AB19B147E06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C220EB94-3A3E-4FAF-AEBA-AB19B147E06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249CEE9E-2687-4622-9579-7C421F8F367F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249CEE9E-2687-4622-9579-7C421F8F367F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249CEE9E-2687-4622-9579-7C421F8F367F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249CEE9E-2687-4622-9579-7C421F8F367F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
